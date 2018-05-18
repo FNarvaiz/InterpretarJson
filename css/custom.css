@@ -1,0 +1,15 @@
+.pageBody{
+	padding:  15px;
+	
+}
+.table{
+	border-style: solid;
+    border-width: 1px;
+}
+
+@media (max-width: 760px) {
+	.pageBody{ padding-left:  0px; padding-right: 0px; }
+	.table{border-style: none;}
+
+
+}
